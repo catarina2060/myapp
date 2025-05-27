@@ -14,3 +14,7 @@ flutter pub get.
 4 Executar o aplicativo em um emulador ou dispositivo físico ou em um navegador:
 
 flutter run
+
+## Wireframe
+
+![Wireframe Home](./assests/Captura%20de%20tela%202025-05-21%20160809.png)
